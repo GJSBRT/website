@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h1 align="center">GSBRT website ✨</h1>
+  <h1 align="center">✨GSBRT's website✨</h1>
 </p>
 
 ![GitHub contributors](https://img.shields.io/github/contributors/GJSBRT/home?color=ffcc66&style=for-the-badge)
