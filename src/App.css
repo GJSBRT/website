@@ -1,0 +1,15 @@
+header {
+  background-image: url('/src/images/header.jpg');
+}
+
+.suggestionbot {
+  background-image: url('/src/images/projects/suggestionbot.png');
+}
+
+.deepslate {
+  background-image: url('/src/images/projects/deepslate.png');
+}
+
+.gcphone {
+  background-image: url('/src/images/projects/gcphone.png');
+}
